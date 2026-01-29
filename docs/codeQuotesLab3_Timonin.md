@@ -1,18 +1,26 @@
-Блоки кода
-Встроенный (inline) код
-Команда `git status` показывает состояние репозитория.
-**Многострочный код:**
-```python
-print("Hello, Markdown!")
+## Примеры кода и цитаты
+
+### Команда Git
+Для проверки состояния репозитория используйте команду `git status`.
+
+### Блок кода на "C#"
+```сsharp
+string name;
+name = Console.ReadLine();
+Console.WriteLine(name);
 ```
 
+### Блок кода без указания языка
+
 ```
-print("Hello, Markdown!")
+string name;
+name = Console.ReadLine();
+Console.WriteLine(name);
 ```
 
-**Цитаты:**
-> Это цитата в Markdown.
-**Вложенная цитата:**
-> Первый уровень
->> Второй уровень
-
+### Цитаты
+> ы
+>
+>> ыыы
+>
+> ыыыыыыыыыыыыы
